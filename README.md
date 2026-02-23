@@ -143,6 +143,6 @@ Consulte LICENSE para mais detalhes.
 
 ## Contato
 
-Giuliano Vieira
-gmossv603@gmail.com
+Giuliano Vieira<br>
+gmossv603@gmail.com<br>
 https://www.linkedin.com/in/giuliano-vieira1/
