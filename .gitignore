@@ -1,0 +1,7 @@
+# venv file and configurations
+.venv
+.git
+settings.yaml
+
+# Logs
+logs/
